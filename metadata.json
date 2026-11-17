@@ -1,0 +1,6 @@
+{
+  "name": "IM Vault — تشفير IM FORMAT v1",
+  "description": "أداة تشفير محلية بالكامل (Zero-Knowledge) للنصوص والملفات وفق مواصفة IM FORMAT v1 باستخدام AES-256-GCM و Argon2id عبر WebAssembly.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
